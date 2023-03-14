@@ -1,2 +1,2 @@
 #!/bin/bash
-read BEST < <(echo "School") && echo "The value of BEST is: $BEST"
+read BEST < <(echo "School") echo "The value of BEST is: $BEST"
